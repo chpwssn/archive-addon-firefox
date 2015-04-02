@@ -1,8 +1,8 @@
-# url-addon-firefox
-Playing with an addon that will allow a user to report the urls they visit to a central location for archiving.
+# archive-addon-firefox
+Playing with an add-on that will allow a user to report the urls they visit to a central location for archiving.
 
 This Firefox extension will send the URLs a user visits to a central location for archiving. As your page finishes 
-loading, the add-on sends a notification to the central location (https://wasson.io/url-addon/) adding the URL you 
+loading, the add-on sends a notification to the central location (https://wasson.io/archive-addon/) adding the URL you 
 visited to a database. 
 Archivists can query the database and send the URL data to archive bots for preservation of the webpage. Also, 
 querying the database for URLs of interest can help with future projects and saving dying websites. Users provide a 
